@@ -1,0 +1,17 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+h1 {
+  font-size: 60px;
+  line-height: 3rem;
+}
+.high-light {
+  color: orangered;
+}
+input[type="email"],
+[type="password"] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
