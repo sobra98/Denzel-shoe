@@ -40,3 +40,10 @@ input[type="email"],
 .terms-part {
   height: 500px;
 }
+
+/*************** Media query ***********/
+@media screen and (max-width: 568px) {
+  .terms-part {
+    display: block;
+  }
+}
