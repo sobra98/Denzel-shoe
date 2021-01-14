@@ -42,8 +42,15 @@ input[type="email"],
 }
 
 /*************** Media query ***********/
-@media screen and (max-width: 568px) {
+@media (max-width: 568px) {
   .terms-part {
     display: block;
+
+    height: 1000px;
+  }
+}
+@media (max-width: 568px) {
+  .form-align {
+    
   }
 }
