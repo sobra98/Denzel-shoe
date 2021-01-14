@@ -5,6 +5,13 @@ h1 {
   font-size: 60px;
   line-height: 3rem;
 }
+h2 {
+  color: salmon;
+}
+h5 {
+  color: darkslategrey;
+  font-weight: 700;
+}
 .high-light {
   color: orangered;
 }
@@ -14,4 +21,22 @@ input[type="email"],
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
+}
+/*********Header part**********/
+.h-padding {
+  margin-right: 20px;
+}
+/*********Header part**********/
+/****casual shoe***/
+.shoe-card {
+}
+.shoe-card img {
+  background-color: rgba(223, 213, 213, 0.705);
+  border-radius: 40px;
+}
+/****casual shoe***/
+
+/*****start terms-part*******/
+.terms-part {
+  height: 500px;
 }
