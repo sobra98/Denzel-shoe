@@ -29,8 +29,7 @@ input[type="email"],
 /*********Header part**********/
 /****casual shoe***/
 
-.shoe-card,
-img {
+.shoe-card {
   background-color: rgba(223, 213, 213, 0.705);
   border-radius: 40px;
 }
