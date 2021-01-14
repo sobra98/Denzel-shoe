@@ -28,9 +28,9 @@ input[type="email"],
 }
 /*********Header part**********/
 /****casual shoe***/
-.shoe-card {
-}
-.shoe-card img {
+
+.shoe-card,
+img {
   background-color: rgba(223, 213, 213, 0.705);
   border-radius: 40px;
 }
@@ -40,6 +40,9 @@ input[type="email"],
 .terms-part {
   height: 500px;
 }
+footer {
+  height: 40px;
+}
 
 /*************** Media query ***********/
 @media (max-width: 568px) {
@@ -47,10 +50,5 @@ input[type="email"],
     display: block;
 
     height: 1000px;
-  }
-}
-@media (max-width: 568px) {
-  .form-align {
-    
   }
 }
